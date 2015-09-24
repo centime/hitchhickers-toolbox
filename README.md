@@ -9,6 +9,10 @@ The hitchhicker's guide to technology
 ----------------------------------------------------------------------------------------------------
 
 
+* [OsmAnd-hitchSpots](https://github.com/centime/hitchhickers-toolbox/blob/master/OsmAnd-hitchSpots)
+----------------------------------------------------------------------------------------------------
+
+
 
 	
 
